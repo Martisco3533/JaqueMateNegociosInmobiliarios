@@ -1694,6 +1694,16 @@ footer .credits {
     margin-left: 15px;
   }
 
+  .nav-link i {
+    width: 2.8rem;
+    height: 2.8rem;
+    font-size: 2.5rem;
+    text-align: center;
+    border-radius: 30%;
+    color: #ffffff;
+    background-color: #26a356;
+  }
+
   .navbar-default .dropdown .dropdown-menu {
     border-top: 4px solid #033E72;
     border-left: 0;
