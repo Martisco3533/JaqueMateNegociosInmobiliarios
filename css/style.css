@@ -824,7 +824,7 @@ a:hover {
   transition-delay: 0s;
 }
 
-.click-closed {
+/*.click-closed {
   position: fixed;
   top: 0;
   left: 0;
@@ -834,7 +834,7 @@ a:hover {
   z-index: 1035;
   background-color: #000000;
   opacity: .4;
-}
+}*/
 
 .close-box-collapse {
   position: absolute;
